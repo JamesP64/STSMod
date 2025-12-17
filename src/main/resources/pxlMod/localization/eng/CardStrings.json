@@ -1,0 +1,127 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Attrition": {
+    "NAME": "Attrition",
+    "DESCRIPTION": "Every turn, apply !M! ${modID}:Apostasy to ALL enemies."
+  },
+  "${modID}:Blood_Contract": {
+    "NAME": "Blood Contract",
+    "DESCRIPTION": "Apply ALL Curses. NL Lose 1 ${modID}:Card_Draw each turn."
+  },
+  "${modID}:Break_Faith": {
+    "NAME": "Break Faith",
+    "DESCRIPTION": "Apply !M! ${modID}:Apostasy."
+  },
+  "${modID}:Ceremonial_Blade": {
+    "NAME": "Ceremonial Blade",
+    "DESCRIPTION": "Deal [#67D1A1]!${modID}:BaseDamage![] damage for the number of cards currently in hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)",
+      ""
+    ]
+  },
+  "${modID}:Cursed_Strike": {
+    "NAME": "Cursed Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL Apply !M! ${modID}:Curse_of_Recoil."
+  },
+  "${modID}:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "${modID}:Double_Down": {
+    "NAME": "Double_Down",
+    "DESCRIPTION": "Permanently gain a copy of one random card in your hand."
+  },
+  "${modID}:Etched_Dagger": {
+    "NAME": "Etched Dagger",
+    "DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for each card in hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for each card in hand."
+  },
+  "${modID}:Greed": {
+    "NAME": "Greed",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
+  },
+  "${modID}:Hysteria": {
+    "NAME": "Hysteria",
+    "DESCRIPTION": "Apply ${modID}:Curse_of_Madness to everyone, including yourself."
+  },
+  "${modID}:Impale": {
+    "NAME": "Impale",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! ${modID}:Apostasy."
+  },
+  "${modID}:Lust": {
+    "NAME": "Lust",
+    "DESCRIPTION": "Gain !M! Strength. NL Lose 1 ${modID}:Card_Draw."
+  },
+  "${modID}:Mad_Dash": {
+    "NAME": "Mad Dash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply ${modID}:Curse_of_Madness."
+  },
+  "${modID}:Plague": {
+    "NAME": "Plague",
+    "DESCRIPTION": "When the inflicted enemy dies, apply it's curses to ALL enemies."
+  },
+  "${modID}:Pocket_Ace": {
+    "NAME": "Pocket Ace",
+    "DESCRIPTION": "Lose !M! HP. NL Gain 1 ${modID}:Card_Draw."
+  },
+  "${modID}:Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Gain max HP equal to the number of cards in hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain max HP equal to the number of cards in hand + 2. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gain [#67D1A1]!${modID}:HPGain![] HP.)",
+      ""
+    ]
+  },
+  "${modID}:Preachers_Assault": {
+    "NAME": "Preacher's Assault",
+    "DESCRIPTION": "Deal !D! damage. NL Heal HP equal to the target's ${modID}:Apostasy. NL Exhaust."
+  },
+  "${modID}:Quick_Cut": {
+    "NAME": "Quick Cut",
+    "DESCRIPTION": "Deal !D! damage [#67D1A1]!${modID}:MultiAttack![] times. NL Draw !M! cards."
+  },
+  "${modID}:Rigged_Deal": {
+    "NAME": "Rigged Deal",
+    "DESCRIPTION": "Gain !M! ${modID}:Apostasy. NL Apply !M! ${modID}:Apostasy."
+  },
+  "${modID}:Scourge_Form": {
+    "NAME": "Scourge Form",
+    "DESCRIPTION": "Ethereal. NL At the start of your turn, Transform one card.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, Transform one card."
+  },
+  "${modID}:Sloth": {
+    "NAME": "Sloth",
+    "DESCRIPTION": "Stun the enemy for !M! turn."
+  },
+  "${modID}:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "${modID}:Twisted_Hourglass": {
+    "NAME": "Twisted Hourglass",
+    "DESCRIPTION": "Apply !M! ${modID}:Curse_of_Fate."
+  },
+  "${modID}:Unhinge": {
+    "NAME": "Unhinge",
+    "DESCRIPTION": "Inflict yourself with ${modID}:Curse_of_Madness. NLGain !M! ${modID}:Apostasy."
+  },
+  "${modID}:Unholy_Sermon": {
+    "NAME": "Unholy Sermon",
+    "DESCRIPTION": "Apply !M! ${modID}:Apostasy to ALL enemies."
+  },
+  "${modID}:Wrath": {
+    "NAME": "Wrath",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Take !M! damage."
+  }
+}

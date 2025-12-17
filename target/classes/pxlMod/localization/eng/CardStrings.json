@@ -1,0 +1,127 @@
+{
+  "pxlmod64:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "pxlmod64:Attrition": {
+    "NAME": "Attrition",
+    "DESCRIPTION": "Every turn, apply !M! pxlmod64:Apostasy to ALL enemies."
+  },
+  "pxlmod64:Blood_Contract": {
+    "NAME": "Blood Contract",
+    "DESCRIPTION": "Apply ALL Curses. NL Lose 1 pxlmod64:Card_Draw each turn."
+  },
+  "pxlmod64:Break_Faith": {
+    "NAME": "Break Faith",
+    "DESCRIPTION": "Apply !M! pxlmod64:Apostasy."
+  },
+  "pxlmod64:Ceremonial_Blade": {
+    "NAME": "Ceremonial Blade",
+    "DESCRIPTION": "Deal [#67D1A1]!pxlmod64:BaseDamage![] damage for the number of cards currently in hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)",
+      ""
+    ]
+  },
+  "pxlmod64:Cursed_Strike": {
+    "NAME": "Cursed Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL Apply !M! pxlmod64:Curse_of_Recoil."
+  },
+  "pxlmod64:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "pxlmod64:Double_Down": {
+    "NAME": "Double_Down",
+    "DESCRIPTION": "Permanently gain a copy of one random card in your hand."
+  },
+  "pxlmod64:Etched_Dagger": {
+    "NAME": "Etched Dagger",
+    "DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for each card in hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for each card in hand."
+  },
+  "pxlmod64:Greed": {
+    "NAME": "Greed",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
+  },
+  "pxlmod64:Hysteria": {
+    "NAME": "Hysteria",
+    "DESCRIPTION": "Apply pxlmod64:Curse_of_Madness to everyone, including yourself."
+  },
+  "pxlmod64:Impale": {
+    "NAME": "Impale",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! pxlmod64:Apostasy."
+  },
+  "pxlmod64:Lust": {
+    "NAME": "Lust",
+    "DESCRIPTION": "Gain !M! Strength. NL Lose 1 pxlmod64:Card_Draw."
+  },
+  "pxlmod64:Mad_Dash": {
+    "NAME": "Mad Dash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply pxlmod64:Curse_of_Madness."
+  },
+  "pxlmod64:Plague": {
+    "NAME": "Plague",
+    "DESCRIPTION": "When the inflicted enemy dies, apply it's curses to ALL enemies."
+  },
+  "pxlmod64:Pocket_Ace": {
+    "NAME": "Pocket Ace",
+    "DESCRIPTION": "Lose !M! HP. NL Gain 1 pxlmod64:Card_Draw."
+  },
+  "pxlmod64:Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Gain max HP equal to the number of cards in hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain max HP equal to the number of cards in hand + 2. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gain [#67D1A1]!pxlmod64:HPGain![] HP.)",
+      ""
+    ]
+  },
+  "pxlmod64:Preachers_Assault": {
+    "NAME": "Preacher's Assault",
+    "DESCRIPTION": "Deal !D! damage. NL Heal HP equal to the target's pxlmod64:Apostasy. NL Exhaust."
+  },
+  "pxlmod64:Quick_Cut": {
+    "NAME": "Quick Cut",
+    "DESCRIPTION": "Deal !D! damage [#67D1A1]!pxlmod64:MultiAttack![] times. NL Draw !M! cards."
+  },
+  "pxlmod64:Rigged_Deal": {
+    "NAME": "Rigged Deal",
+    "DESCRIPTION": "Gain !M! pxlmod64:Apostasy. NL Apply !M! pxlmod64:Apostasy."
+  },
+  "pxlmod64:Scourge_Form": {
+    "NAME": "Scourge Form",
+    "DESCRIPTION": "Ethereal. NL At the start of your turn, Transform one card.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, Transform one card."
+  },
+  "pxlmod64:Sloth": {
+    "NAME": "Sloth",
+    "DESCRIPTION": "Stun the enemy for !M! turn."
+  },
+  "pxlmod64:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "pxlmod64:Twisted_Hourglass": {
+    "NAME": "Twisted Hourglass",
+    "DESCRIPTION": "Apply !M! pxlmod64:Curse_of_Fate."
+  },
+  "pxlmod64:Unhinge": {
+    "NAME": "Unhinge",
+    "DESCRIPTION": "Inflict yourself with pxlmod64:Curse_of_Madness.NL Gain !M! pxlmod64:Apostasy."
+  },
+  "pxlmod64:Unholy_Sermon": {
+    "NAME": "Unholy Sermon",
+    "DESCRIPTION": "Apply !M! pxlmod64:Apostasy to ALL enemies."
+  },
+  "pxlmod64:Wrath": {
+    "NAME": "Wrath",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Take !M! damage."
+  }
+}

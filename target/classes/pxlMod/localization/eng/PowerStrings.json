@@ -1,0 +1,69 @@
+{
+  "pxlmod64:PowerID": {
+    "NAME": "Ultimate Power",
+    "DESCRIPTIONS": [
+      "You are Very Cool and Strong."
+    ]
+  },
+  "pxlmod64:ApostasyPower": {
+    "NAME": "Apostasy",
+    "DESCRIPTIONS": [
+      "When this power reaches #b10, the creature loses #b5 #yStrength and gains #b99 #yWeak."
+    ]
+  },
+  "pxlmod64:ApostasySelfPower": {
+    "NAME": "Apostasy",
+    "DESCRIPTIONS": [
+      "When this power reaches #b10, the Heretic gains 5 strength."
+    ]
+  },
+  "pxlmod64:AttritionPower": {
+    "NAME": "Attrition",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #b",
+      " #yApostasy to ALL enemies."
+    ]
+  },
+  "pxlmod64:ScourgeFormPower": {
+    "NAME": "Scourge Form",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Transform #b",
+      " card at random."
+    ]
+  },
+  "pxlmod64:DrawDownPower": {
+    "NAME": "Draw Down",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " less cards."
+    ]
+  },
+  "pxlmod64:BloodContractPower": {
+    "NAME": "Blood Contract",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Lose #b",
+      " more card draw."
+    ]
+  },
+  "pxlmod64:CurseOfRecoilPower": {
+    "NAME": "Curse of Recoil",
+    "DESCRIPTIONS": [
+      "Target takes #b",
+      "% of all damage that they deal out."
+    ]
+  },
+  "pxlmod64:CurseOfFatePower": {
+    "NAME": "Curse of Fate",
+    "DESCRIPTIONS": [
+      "Target takes #b",
+      " damage every time you draw a card."
+    ]
+  },
+  "pxlmod64:CurseOfMadnessPower": {
+    "NAME": "Curse of Madness",
+    "DESCRIPTIONS": [
+      "Target takes damage equal to it's apostasy at the end of each turn."
+    ]
+  }
+}
+

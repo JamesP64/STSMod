@@ -1,0 +1,51 @@
+[
+  {
+    "PROPER_NAME": "Apostasy",
+    "NAMES": [
+      "Apostasy",
+      "apostasy"
+    ],
+    "DESCRIPTION": "If Apostasy reaches 10 inflicted creatures lose 5 strength and gain 99 weak. If the Heretic reaches 10 Apostasy, he gains 5 strength."
+  },
+  {
+    "PROPER_NAME": "Curse of Recoil",
+    "NAMES": [
+      "curse of recoil",
+      "curse_of_recoil"
+    ],
+    "DESCRIPTION": "Target takes #b10% of all damage that they deal out."
+  },
+  {
+  "PROPER_NAME": "Curse of Fate",
+  "NAMES": [
+    "curse of fate",
+    "curse_of_fate"
+  ],
+  "DESCRIPTION": "Cursed creatures lose HP when you draw a card."
+  },
+  {
+  "PROPER_NAME": "Curse of Madness",
+  "NAMES": [
+    "curse of madness",
+    "curse_of_madness"
+  ],
+  "DESCRIPTION": "Cursed creatures take damage equal to their apostasy at the end of each turn."
+},
+  {
+  "PROPER_NAME": "Card Draw",
+  "NAMES": [
+    "card draw",
+    "card_draw"
+  ],
+  "DESCRIPTION": "Draw a card each turn."
+} ,
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "multiword keyword",
+      "multiword_keyword",
+      "multiword_keywords"
+    ],
+    "DESCRIPTION": "Make sure the first element in NAMES has no underscores. The rest should use _ in the place of spaces. In card text, you'll use the underscore versions."
+  }
+]

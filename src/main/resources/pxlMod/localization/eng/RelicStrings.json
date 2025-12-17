@@ -1,0 +1,17 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:Satanic_Pact": {
+  "NAME": "Satanic Pact",
+  "FLAVOR": "A boon exchanged for one's soul",
+  "DESCRIPTIONS": [
+    "At the start of your turn, draw #b",
+    " additional cards"
+  ]
+}
+}
